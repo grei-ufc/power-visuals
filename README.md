@@ -1,4 +1,5 @@
-
+![GitHub Repo stars](https://img.shields.io/github/stars/grei-ufc/power-visuals)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/grei-ufc/power-visuals)
 
 Esta é a página oficial do projeto _Power Visuals_, integrada ao seu [repositório de software no GitHub](https://github.com/grei-ufc/power-visuals).
 
