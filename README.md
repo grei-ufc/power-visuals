@@ -25,6 +25,6 @@ A lista dos material já desenvolvidos pode ser encontrada abaixo:
 |        |               |                  |
 |        |               |                  |
 
-Confira o nosso canal no YouTube para acessar mais vídeos: https://www.youtube.com/@ProjetoPowerVisuals
+Confira o nosso canal no YouTube para acessar mais vídeos: [https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/@ProjetoPowerVisuals).
 ## Breve Resumo de Cada um dos vídeos desenvolvidos
 
