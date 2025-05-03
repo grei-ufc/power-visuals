@@ -9,14 +9,14 @@ A metodologia de desenvolvimento das animações está baseada na utilização d
 
 A principal ideia do projeto é utilizar essa biblioteca para desenvolver vídeos de animações que estejam diretamente ligadas à conceitos mais aplicados da engenharia elétrica, como por exemplo, os conceitos de:
 
-- fasores de tensão e corrente.
-- relações entre corrente e tensão em circuitos RLC.
-- potência aparente, ativa e reativa em sistemas elétricos de corrente alternada.
-- circuitos trifásicos.
-- visualização dos conceitos de campos/potenciais elétricos e campos/potenciais magnéticos.
+- Fasores de tensão e corrente.
+- Relações entre corrente e tensão em circuitos RLC.
+- Potência aparente, ativa e reativa em sistemas elétricos de corrente alternada.
+- Circuitos trifásicos.
+- Visualização dos conceitos de campos/potenciais elétricos e campos/potenciais magnéticos.
 - Equações de Maxwell.
 
-A lista dos vídeos já desenvolvidos pode ser encontrada abaixo:
+A lista dos material já desenvolvidos pode ser encontrada abaixo:
 
 | Título | Link do Vídeo | Duração do Vídeo |
 | ------ | ------------- | ---------------- |
@@ -25,6 +25,6 @@ A lista dos vídeos já desenvolvidos pode ser encontrada abaixo:
 |        |               |                  |
 |        |               |                  |
 
-
+Confira o nosso canal no YouTube para acessar mais vídeos: https://www.youtube.com/@ProjetoPowerVisuals
 ## Breve Resumo de Cada um dos vídeos desenvolvidos
 
