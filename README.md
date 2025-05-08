@@ -16,11 +16,11 @@ A principal ideia do projeto é utilizar essa biblioteca para desenvolver vídeo
 - Visualização dos conceitos de campos/potenciais elétricos e campos/potenciais magnéticos.
 - Equações de Maxwell.
 
-A lista dos material já desenvolvidos pode ser encontrada abaixo:
+A lista dos materiais já desenvolvidos pode ser encontrada abaixo:
 
 | Título | Link do Vídeo | Duração do Vídeo |
 | ------ | ------------- | ---------------- |
-|        |               |                  |
+| Vídeo de Apresentação       |[https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/watch?v=UQ-zm3joGhM) | 3:45|
 |        |               |                  |
 |        |               |                  |
 |        |               |                  |
