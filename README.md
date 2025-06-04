@@ -28,4 +28,13 @@ A lista dos materiais já desenvolvidos pode ser encontrada abaixo:
 Confira o nosso canal no YouTube para acessar mais vídeos: [https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/@ProjetoPowerVisuals).
 ## Breve Resumo de Cada um dos vídeos desenvolvidos
 
-### Video 1
+### Video 1 : Funções Seno e Cosseno
+
+
+O vídeo apresenta as funções seno e cosseno, utilizando uma abordagem visual centrada na circunferência unitária. A explicação tem início com a definição dessa circunferência, cujo raio é igual a uma unidade e cujo centro está posicionado na origem do sistema de coordenadas, o que permite uma visualização clara das funções trigonométricas. A partir do movimento de uma partícula ao longo da circunferência no sentido anti-horário, são exploradas as variações das coordenadas A (cosseno) e B (seno) conforme o comprimento S percorrido, estabelecendo a relação entre o deslocamento e os valores das funções. O uso de radianos como unidade de medida angular é destacado, permitindo compreender a correspondência entre o comprimento do arco e os ângulos associados, como π/2, π, 3π/2 e 2π. Além disso, aborda-se o conceito de S negativo para representar o movimento no sentido horário, o que contribui para uma compreensão mais completa e simétrica das funções seno e cosseno. Por fim, são traçados os gráficos dessas funções, com S no eixo horizontal e as coordenadas A e B no eixo vertical, proporcionando uma representação visual clara de suas propriedades periódicas e de suas aplicações em contextos matemáticos e físicos.
+
+
+
+### Video 2 : Senoides e Cossenoides
+
+O vídeo explora as senoides e cossenoides a partir das funções seno e cosseno, destacando como seus gráficos resultam de variações periódicas associadas ao movimento circular uniforme. Utilizando novamente a circunferência unitária como base conceitual, a produção mostra como a projeção da coordenada vertical (seno) e da coordenada horizontal (cosseno) de uma partícula em movimento ao longo da circunferência gera curvas contínuas e suaves, conhecidas como senoides e cossenoides. À medida que o comprimento S do arco aumenta, medido em radianos, os valores das funções oscilam de forma periódica, formando padrões de subida e descida que se repetem a cada 2π unidades. A representação gráfica dessas curvas é feita em um plano cartesiano, com o eixo horizontal representando o tempo ou o comprimento percorrido, e o eixo vertical indicando os valores das funções. As senoides e cossenoides são fundamentais na descrição de fenômenos oscilatórios, como ondas sonoras, correntes elétricas alternadas e vibrações mecânicas.O vídeo também destaca como mudanças nos parâmetros das funções, como amplitude, frequência e fase, afetam a forma das curvas, possibilitando o ajuste dos modelos às mais diversas situações reais.
