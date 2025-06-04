@@ -21,8 +21,8 @@ A lista dos materiais já desenvolvidos pode ser encontrada abaixo:
 | Título | Link do Vídeo | Duração do Vídeo |
 | ------ | ------------- | ---------------- |
 | Vídeo de Apresentação       |[https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/watch?v=UQ-zm3joGhM) | 3:45|
-| Funções Seno e Cosseno        | [https://www.youtube.com/watch?v=EXEMPLO1](https://youtu.be/sHprhipqbd8?feature=shared)     |    5:23              |
-| Senoides e Cossenoides       | [https://www.youtube.com/watch?v=EXEMPLO1](https://youtu.be/sHprhipqbd8?feature=shared)     |     6:44             |
+| Funções Seno e Cosseno        | [[https://www.youtube.com/watch?v=SENOSCOSSENOS](https://youtu.be/sHprhipqbd8)]     |    5:23              |
+| Senoides e Cossenoides       | [https://www.youtube.com/watch?v=SENOIDES](https://youtu.be/sHprhipqbd8?feature=shared)     |     6:44             |
 |        |               |                  |
 
 Confira o nosso canal no YouTube para acessar mais vídeos: [https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/@ProjetoPowerVisuals).
