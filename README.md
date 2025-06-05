@@ -18,12 +18,12 @@ A principal ideia do projeto é utilizar essa biblioteca para desenvolver vídeo
 
 A lista dos materiais já desenvolvidos pode ser encontrada abaixo:
 
-| Título | Link do Vídeo | Duração do Vídeo |
-| ------ | ------------- | ---------------- |
-| Vídeo de Apresentação       |[https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/watch?v=UQ-zm3joGhM) | 3:45|
-| Funções Seno e Cosseno        | [[https://www.youtube.com/watch?v=SENOSCOSSENOS](https://youtu.be/sHprhipqbd8)]     |    5:23              |
-| Senoides e Cossenoides       | [https://www.youtube.com/watch?v=SENOIDES](https://youtu.be/sHprhipqbd8?feature=shared)     |     6:44             |
-|        |               |                  |
+| Título                 | Link do Vídeo                                                                                       | Duração do Vídeo |
+| ---------------------- | --------------------------------------------------------------------------------------------------- | ---------------- |
+| Vídeo de Apresentação  | [Clique aqui para assistir ao vídeo no Youtube](https://www.youtube.com/watch?v=UQ-zm3joGhM)        |  3:45            |
+| Funções Seno e Cosseno | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/sHprhipqbd8)                       |  5:23            |
+| Senoides e Cossenoides | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/sHprhipqbd8?feature=shared)        |  6:44            |
+|                        |                                                                                                     |                  |
 
 Confira o nosso canal no YouTube para acessar mais vídeos: [https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/@ProjetoPowerVisuals).
 ## Breve Resumo de Cada um dos vídeos desenvolvidos
