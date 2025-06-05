@@ -22,7 +22,7 @@ A lista dos materiais já desenvolvidos pode ser encontrada abaixo:
 | ---------------------- | --------------------------------------------------------------------------------------------------- | ---------------- |
 | Vídeo de Apresentação  | [Clique aqui para assistir ao vídeo no Youtube](https://www.youtube.com/watch?v=UQ-zm3joGhM)        |  3:45            |
 | Funções Seno e Cosseno | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/sHprhipqbd8)                       |  5:23            |
-| Senoides e Cossenoides | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/sHprhipqbd8?feature=shared)        |  6:44            |
+| Senoides e Cossenoides | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/k4IPmLVc3x8?si=uLZFRnqI83SEz0xA)   |  6:44            |
 |                        |                                                                                                     |                  |
 
 Confira o nosso canal no YouTube para acessar mais vídeos: [https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/@ProjetoPowerVisuals).
