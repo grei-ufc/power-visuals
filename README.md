@@ -31,7 +31,15 @@ Confira o nosso canal no YouTube para acessar mais vídeos: [https://https://www
 ### Video 1 : Funções Seno e Cosseno
 
 
-O vídeo apresenta as funções seno e cosseno, utilizando uma abordagem visual centrada na circunferência unitária. A explicação tem início com a definição dessa circunferência, cujo raio é igual a uma unidade e cujo centro está posicionado na origem do sistema de coordenadas, o que permite uma visualização clara das funções trigonométricas. A partir do movimento de uma partícula ao longo da circunferência no sentido anti-horário, são exploradas as variações das coordenadas A (cosseno) e B (seno) conforme o comprimento S percorrido, estabelecendo a relação entre o deslocamento e os valores das funções. O uso de radianos como unidade de medida angular é destacado, permitindo compreender a correspondência entre o comprimento do arco e os ângulos associados, como π/2, π, 3π/2 e 2π. Além disso, aborda-se o conceito de S negativo para representar o movimento no sentido horário, o que contribui para uma compreensão mais completa e simétrica das funções seno e cosseno. Por fim, são traçados os gráficos dessas funções, com S no eixo horizontal e as coordenadas A e B no eixo vertical, proporcionando uma representação visual clara de suas propriedades periódicas e de suas aplicações em contextos matemáticos e físicos.
+O vídeo apresenta as funções seno e cosseno, utilizando uma abordagem visual centrada na circunferência unitária. A explicação tem início com a definição dessa circunferência, cujo raio é igual a uma unidade e cujo centro está posicionado na origem do sistema de coordenadas, o que permite uma visualização clara das funções trigonométricas. A partir do movimento de uma partícula ao longo da circunferência no sentido anti-horário, são exploradas as variações das coordenadas A (cosseno) e B (seno) conforme o comprimento S percorrido, estabelecendo a relação entre o deslocamento e os valores das funções. 
+
+
+![upgif1](https://github.com/user-attachments/assets/7cefa2c0-47a1-4e0a-9fa9-02bd6621eb26)
+
+
+O uso de radianos como unidade de medida angular é destacado, permitindo compreender a correspondência entre o comprimento do arco e os ângulos associados, como π/2, π, 3π/2 e 2π. Além disso, aborda-se o conceito de S negativo para representar o movimento no sentido horário, o que contribui para uma compreensão mais completa e simétrica das funções seno e cosseno. Por fim, são traçados os gráficos dessas funções, com S no eixo horizontal e as coordenadas A e B no eixo vertical, proporcionando uma representação visual clara de suas propriedades periódicas e de suas aplicações em contextos matemáticos e físicos.
+
+![upgif2](https://github.com/user-attachments/assets/a4134ed4-7c36-40df-9449-e44cc8098dce)
 
 
 
