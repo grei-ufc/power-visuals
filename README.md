@@ -45,4 +45,14 @@ O uso de radianos como unidade de medida angular é destacado, permitindo compre
 
 ### Video 2 : Senoides e Cossenoides
 
-O vídeo explora as senoides e cossenoides a partir das funções seno e cosseno, destacando como seus gráficos resultam de variações periódicas associadas ao movimento circular uniforme. Utilizando novamente a circunferência unitária como base conceitual, a produção mostra como a projeção da coordenada vertical (seno) e da coordenada horizontal (cosseno) de uma partícula em movimento ao longo da circunferência gera curvas contínuas e suaves, conhecidas como senoides e cossenoides. À medida que o comprimento S do arco aumenta, medido em radianos, os valores das funções oscilam de forma periódica, formando padrões de subida e descida que se repetem a cada 2π unidades. A representação gráfica dessas curvas é feita em um plano cartesiano, com o eixo horizontal representando o tempo ou o comprimento percorrido, e o eixo vertical indicando os valores das funções. As senoides e cossenoides são fundamentais na descrição de fenômenos oscilatórios, como ondas sonoras, correntes elétricas alternadas e vibrações mecânicas.O vídeo também destaca como mudanças nos parâmetros das funções, como amplitude, frequência e fase, afetam a forma das curvas, possibilitando o ajuste dos modelos às mais diversas situações reais.
+O vídeo explora as senoides e cossenoides a partir das funções seno e cosseno, destacando como seus gráficos resultam de variações periódicas associadas ao movimento circular uniforme. Utilizando novamente a circunferência unitária como base conceitual, a produção mostra como a projeção da coordenada vertical (seno) e da coordenada horizontal (cosseno) de uma partícula em movimento ao longo da circunferência gera curvas contínuas e suaves, conhecidas como senoides e cossenoides. À medida que o comprimento S do arco aumenta, medido em radianos, os valores das funções oscilam de forma periódica, formando padrões de subida e descida que se repetem a cada 2π unidades.
+
+
+![upgif3](https://github.com/user-attachments/assets/f5dea71b-9b90-4fe5-b2b7-6a1c10b28c4f)
+
+
+A representação gráfica dessas curvas é feita em um plano cartesiano, com o eixo horizontal representando o tempo ou o comprimento percorrido, e o eixo vertical indicando os valores das funções. As senoides e cossenoides são fundamentais na descrição de fenômenos oscilatórios, como ondas sonoras, correntes elétricas alternadas e vibrações mecânicas.O vídeo também destaca como mudanças nos parâmetros das funções, como amplitude, frequência e fase, afetam a forma das curvas, possibilitando o ajuste dos modelos às mais diversas situações reais.
+
+![upgif4](https://github.com/user-attachments/assets/b5c27b76-4e08-47bb-8205-e845a850120f)
+
+
