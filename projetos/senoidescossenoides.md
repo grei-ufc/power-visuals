@@ -1,6 +1,6 @@
 ## Cena 1
 
-%%manim -qm -v WARNING senoide_estatica1
+    %%manim -qm -v WARNING senoide_estatica1
 
     class senoide_estatica1(Scene):
       def construct(self):
