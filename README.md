@@ -56,3 +56,6 @@ A representação gráfica dessas curvas é feita em um plano cartesiano, com o 
 ![upgif4](https://github.com/user-attachments/assets/b5c27b76-4e08-47bb-8205-e845a850120f)
 
 
+[Veja meus projetos](projetos/senocosseno.md)
+
+
