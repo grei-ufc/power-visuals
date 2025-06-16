@@ -56,6 +56,19 @@ A representação gráfica dessas curvas é feita em um plano cartesiano, com o 
 ![upgif4](https://github.com/user-attachments/assets/b5c27b76-4e08-47bb-8205-e845a850120f)
 
 
-[Veja meus projetos](projetos/senocosseno.md)
+---------------------------------------------------------------------------------------------------------
+
+Aqui você encontra os códigos, usando a biblioteca a Manim, que foram usados para criar os vídeos que você assistiu no Youtube. 
+
+Cada vídeo é formado por cenas, e cada cena é representada por um código diferente — por isso, estão todos organizados separadamente neste repositório. A fim de facilitar o entendimento do leitor, os códigos estão devidamente comentados e estruturados.
+
+A ideia é facilitar o acesso ao conteúdo e permitir que você explore ou adapte cada parte com facilidade. Fique à vontade para usar!
+
+| Título do Vídeo               | Link para os códidos                                                                         |
+| ---------------------- | --------------------------------------------------------------------------------------------------- |
+| Funções Seno e Cosseno | [Clique aqui para acessar](projetos/senocosseno)                       |
+| Senoides e Cossenoides | [Clique aqui para acessar](projetos/senoidescossenoides)   |
+|                        |                                                                                                     |
+
 
 
