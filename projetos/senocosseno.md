@@ -124,6 +124,8 @@ class Seno_Cosseno0(Scene):
 
 # Cena 2
 
+```python
+
     %%manim -qm -v WARNING Seno_Cosseno1
     
     class Seno_Cosseno1(Scene):
@@ -273,9 +275,12 @@ class Seno_Cosseno0(Scene):
 
     #######################################################################################################################################
 
-------------------------------------------------------------------------------------------
+```
 
+----------------------------
 # Cena 3
+
+```python
 
     %%manim -qh -v WARNING Seno_Cosseno2
     
@@ -479,9 +484,13 @@ class Seno_Cosseno0(Scene):
     self.play( grupo.animate.shift(4*RIGHT + UP).set_width(3), run_time = 4)
     #######################################################################################################################'''
 
-----------------------------------------------------------------------------------------
+```
+
+----------------------------
 
 # Cena 4
+
+```python
 
     %%manim -qh -v WARNING mostrar_coseno
     class mostrar_coseno(Scene):
@@ -661,9 +670,13 @@ class Seno_Cosseno0(Scene):
         self.wait()
 
 
-----------------------------------------------------------------------------------------
+```
+
+----------------------------
 
 # Cena 5
+
+```python
 
     %%manim -qh -v WARNING mostrar_coseno
     class mostrar_coseno(Scene):
@@ -842,6 +855,9 @@ class Seno_Cosseno0(Scene):
         #self.add(retângulo)
 
         self.wait()
+```
+
+----------------------------
 
 
 
