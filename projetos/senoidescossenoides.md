@@ -1,5 +1,7 @@
 ## Cena 1
 
+```python
+
     %%manim -qm -v WARNING senoide_estatica1
 
     class senoide_estatica1(Scene):
@@ -211,11 +213,12 @@
     g5 = VGroup(n8,n9)
     self.play(FadeOut(g5))
 
-
+```
 ------------------------------------------------------------------------------------
 
 # Cena 2
 
+```python
     %%manim -qm -v WARNING senoide_estatica2
     
     class senoide_estatica2(Scene):
@@ -418,11 +421,11 @@
     self.play(Write(n9))
     self.play(Write(c2))
     self.play(Write(n5))
-
+```
 ------------------------------------------------------------------------------------
 
 # Cena 3
-
+```python
     %%manim -qm -v WARNING senoide_estatica3
     
     class senoide_estatica3(Scene):
@@ -659,11 +662,11 @@
     cobrir_cena(0)
     self.wait()
 
-
+```
 ------------------------------------------------------------------------------------
 
 # Cena 4
-
+```python
     %%manim -qm -v WARNING senoide_estatica04
     
     class senoide_estatica04(Scene):
@@ -936,11 +939,11 @@
 
     self.play( w2.animate.set_value(1), Transform(n171,n172) )
 
-
+```
 ------------------------------------------------------------------------------------
 
 # Cena 5
-
+```python
     %%manim -qm -v WARNING senoide_estatica05
     
     class senoide_estatica05(Scene):
@@ -1190,11 +1193,12 @@
     n7.move_to([-3.5,-3,0])
     self.play( FadeIn(G0), G1.animate.move_to(G1_anterior.get_center()), FadeIn(n5), FadeIn(n7) )
 
-
+```
 
 ------------------------------------------------------------------------------------
 
 # Cena 6
+```python
 
     %%manim -qm -v WARNING senoide_estatica06
     
@@ -1447,15 +1451,16 @@
 
     g1 = VGroup(v3,v5,n45,n47,G0,G1,n5,n7,ne3,n411,n431)
     self.play(FadeOut(g1))
-
+```
 ------------------------------------------------------------------------------------
 
 # Cena 7
+```python
 
-%%manim -qm -v WARNING senoide_estatica07
-
-class senoide_estatica07(Scene):
-  def construct(self):
+    %%manim -qm -v WARNING senoide_estatica07
+    
+    class senoide_estatica07(Scene):
+      def construct(self):
 
     ##############################################################################
     #                    CRIAR OBJETOS MANIM
@@ -1659,7 +1664,7 @@ class senoide_estatica07(Scene):
     g2 = VGroup(g1,n6,c1,n7,n11)
     self.play(Unwrite(g2), run_time = 3)
     self.wait()
-
+```
 
 
 
