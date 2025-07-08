@@ -97,10 +97,10 @@ A ideia é facilitar o acesso ao conteúdo e permitir que você explore ou adapt
 
 | Título do Vídeo               | Link para os códidos                                                                         |
 | ---------------------- | --------------------------------------------------------------------------------------------------- |
-| Funções Seno e Cosseno | [Clique aqui para acessar](projetos/senocosseno)                       |
-| Senoides e Cossenoides | [Clique aqui para acessar](projetos/senoidescossenoides)   |
-| Valor Eficaz           |                                                                                                     |
-| Análise Fasorial       |                                                                                                     |
+| Funções Seno e Cosseno | [Clique aqui para acessar](projetos/senocosseno)                                                    |
+| Senoides e Cossenoides | [Clique aqui para acessar](projetos/senoidescossenoides)                                            |
+| Valor Eficaz           | [Clique aqui para acessar](projetos/valoreficaz)                                                    |
+| Análise Fasorial       | [Clique aqui para acessar](projetos/analisefasorial)                                                |
 
 
 
