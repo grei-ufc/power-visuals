@@ -23,7 +23,10 @@ A lista dos materiais já desenvolvidos pode ser encontrada abaixo:
 | Vídeo de Apresentação  | [Clique aqui para assistir ao vídeo no Youtube](https://www.youtube.com/watch?v=UQ-zm3joGhM)        |  3:45            |
 | Funções Seno e Cosseno | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/sHprhipqbd8)                       |  5:23            |
 | Senoides e Cossenoides | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/k4IPmLVc3x8?si=uLZFRnqI83SEz0xA)   |  6:44            |
-|                        |                                                                                                     |                  |
+| Valor Eficaz           | [Clique aqui para assistir ao vídeo no Youtube]((https://youtu.be/L0w_UqbMCHY?feature=shared))      |  2:44            |
+| Análise Fasorial       | [Clique aqui para assistir ao vídeo no Youtube]((https://youtu.be/O5Fhc2KV3hM?feature=shared))      |  23:53           |
+
+
 
 Confira o nosso canal no YouTube para acessar mais vídeos: [https://https://www.youtube.com/@ProjetoPowerVisuals](https://www.youtube.com/@ProjetoPowerVisuals).
 ## Breve Resumo de Cada um dos vídeos desenvolvidos
@@ -56,6 +59,34 @@ A representação gráfica dessas curvas é feita em um plano cartesiano, com o 
 ![upgif4](https://github.com/user-attachments/assets/b5c27b76-4e08-47bb-8205-e845a850120f)
 
 
+### Video 3 : Valor Eficaz
+
+O Valor Eficaz, também conhecido como RMS (Root Mean Square), é uma medida fundamental que representa o valor equivalente em corrente contínua de um sinal alternado. É calculado pela raiz quadrada da média dos quadrados dos valores instantâneos do sinal em um período completo.
+A importância do RMS está no fato de que ele representa a capacidade real de um sinal AC de produzir trabalho, sendo amplamente utilizado em medições de tensão e corrente, cálculos de potência elétrica e análise de sistemas. 
+
+<!-- (gif aqui) -->
+
+Para uma onda senoidal com amplitude A, o valor RMS equivale a A/√2, aproximadamente 0,707 vezes a amplitude. Um exemplo prático são as tensões residenciais de 127V ou 220V no Brasil, que são valores RMS.
+O Valor Eficaz facilita a comparação entre sinais AC e DC, padroniza medições elétricas e simplifica cálculos de potência, sendo essencial para profissionais que trabalham com sistemas elétricos e eletrônicos.
+
+<!-- (gif aqui) -->
+
+### Video 4 : Análise Fasorial
+
+
+A Análise Fasorial é uma técnica matemática fundamental que permite representar sinais senoidais de corrente alternada através de números complexos chamados fasores. Esta representação transforma equações diferenciais complexas em equações algébricas simples, facilitando significativamente os cálculos em circuitos AC.
+
+Um fasor é um número complexo que contém informações sobre a amplitude e a fase de um sinal senoidal, sendo representado na forma A∠θ ou A·e^(jθ), onde A é a amplitude e θ é o ângulo de fase. A grande vantagem desta representação é que operações como soma, subtração e multiplicação de sinais senoidais se tornam operações algébricas entre fasores, eliminando a necessidade de resolver equações diferenciais.
+
+<!-- (gif aqui) -->
+
+Na análise fasorial, elementos como resistores, indutores e capacitores são representados por suas impedâncias complexas: R para resistores, jωL para indutores e 1/(jωC) para capacitores, onde ω é a frequência angular. Esta representação permite aplicar as leis de Kirchhoff e técnicas de análise de circuitos DC diretamente aos circuitos AC. A análise fasorial é bastante utilizada em sistemas de potência, análise de filtros, projetos de amplificadores e estudos de estabilidade, sendo uma ferramenta essencial na resolução eficiente de problemas complexos em corrente alternada.
+
+<!-- (gif aqui) -->
+
+
+
+
 ---------------------------------------------------------------------------------------------------------
 
 Aqui você encontra os códigos, usando a biblioteca a Manim, que foram usados para criar os vídeos que você assistiu no Youtube. 
@@ -68,7 +99,8 @@ A ideia é facilitar o acesso ao conteúdo e permitir que você explore ou adapt
 | ---------------------- | --------------------------------------------------------------------------------------------------- |
 | Funções Seno e Cosseno | [Clique aqui para acessar](projetos/senocosseno)                       |
 | Senoides e Cossenoides | [Clique aqui para acessar](projetos/senoidescossenoides)   |
-|                        |                                                                                                     |
+| Valor Eficaz           |                                                                                                     |
+| Análise Fasorial       |                                                                                                     |
 
 
 
