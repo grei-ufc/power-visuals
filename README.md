@@ -23,8 +23,8 @@ A lista dos materiais já desenvolvidos pode ser encontrada abaixo:
 | Vídeo de Apresentação  | [Clique aqui para assistir ao vídeo no Youtube](https://www.youtube.com/watch?v=UQ-zm3joGhM)        |  3:45            |
 | Funções Seno e Cosseno | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/sHprhipqbd8)                       |  5:23            |
 | Senoides e Cossenoides | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/k4IPmLVc3x8?si=uLZFRnqI83SEz0xA)   |  6:44            |
-| Valor Eficaz           | [Clique aqui para assistir ao vídeo no Youtube]((https://youtu.be/L0w_UqbMCHY?feature=shared))      |  2:44            |
-| Análise Fasorial       | [Clique aqui para assistir ao vídeo no Youtube]((https://youtu.be/O5Fhc2KV3hM?feature=shared))      |  23:53           |
+| Valor Eficaz           | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/L0w_UqbMCHY?feature=shared)      |  2:44            |
+| Análise Fasorial       | [Clique aqui para assistir ao vídeo no Youtube](https://youtu.be/O5Fhc2KV3hM?feature=shared)      |  23:53           |
 
 
 
